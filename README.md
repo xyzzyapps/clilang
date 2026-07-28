@@ -51,3 +51,10 @@ Open `custom_commands.go` and use the `Interpreter.Register` method to bind your
 ```bash
 go build -o clilang.exe .
 ```
+## License
+
+MIT
+ 
+## Signature
+
+Original Research by Xyzzy, built with assistance from **Qwen 3.5**.   
